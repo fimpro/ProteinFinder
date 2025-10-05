@@ -1,6 +1,6 @@
 # Katolgenom Program Guide
 ## **What is KatolGenom?**
-KatolGenom is tool, for extracting posible proteins recipes from RNA or DNA chain. In our tool you can find possible proteins and see their chemical features. Project was writen for hackathon (Motorolla Science Cup 2023, project finished in 1st place) in Polish, so unfortunately it is written in Polish
+KatolGenom is tool, for extracting posible proteins recipes from RNA or DNA chain. In our tool you can find possible proteins and see their chemical features. Project was writen for a Polish hackathon (Motorolla Science Cup 2023, project finished in 1st place), therefore unfortunately it is written in Polish.
 Welcome to Katolgenom! This guide will help you navigate through the program features efficiently. Let's dive into the details of each screen.
 
 ---
